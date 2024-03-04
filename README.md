@@ -1,4 +1,7 @@
 [![GitHub Release](https://img.shields.io/github/release/tterb/PlayMusic.svg?style=flat)]()  
+[![GitHub Release](https://img.shields.io/github/release//blinq-io/recorder-app-releases)]()  
+
+/github/v/release/:user/:repo
 
 # What is BlinqIO Virtual Tester (BVT)?
 
