@@ -1,4 +1,5 @@
-![GitHub Release](https://img.shields.io/github/v/release/blinq-io/recorder-app-releases?style=flat)
+![GitHub Release](https://img.shields.io/github/v/release/blinq-io/recorder-app-releases?style=flat) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/blinq-io/recorder-app-releases/total?style=flat)
+
 
 # What is BlinqIO Virtual Tester (BVT)?
 
