@@ -13,6 +13,10 @@ The BlinqIO Editor is an application installed on your
 Windows/MacOS/Linux machine that interacts with your target application 
 to generate test automation code, record test cases, or run tests.
 
+### Dependencies
+
+Make sure you have installed the latest stable version of [Node.js](https://nodejs.org/en) on your system.
+
 ### Installing the BlinqIO Editor on Windows
 
 Download the `BlinqIO-Editor-Setup.exe` from the [latest release](https://github.com/blinq-io/recorder-app-releases/releases/latest) to your Windows system and run the installer to install the application.
