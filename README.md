@@ -21,7 +21,7 @@ Make sure you have installed the latest stable version of [Node.js](https://node
 
 Download the `BlinqIO-Editor-Setup.exe` from the [latest release](https://github.com/blinq-io/recorder-app-releases/releases/latest) to your Windows system and run the installer to install the application.
 
-### Installing the BlinqIO Editor on macOs
+### Installing the BlinqIO Editor on macOS
 
 Download and extract the `BlinqIO-Editor-darwin.zip ` from the [latest release](https://github.com/blinq-io/recorder-app-releases/releases/latest) page to your Mac system and run the installer to install the application.
 
