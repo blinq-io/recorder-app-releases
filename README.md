@@ -20,3 +20,5 @@ Download the `BlinqIO-Editor-Setup.exe` from the [latest release](https://github
 ### Installing the BlinqIO Editor on macOs
 
 Download and extract the `BlinqIO-Editor-darwin.zip ` from the [latest release](https://github.com/blinq-io/recorder-app-releases/releases/latest) page to your Mac system and run the installer to install the application.
+
+For more information, see our [Getting Started](https://docs.blinq.io/getting-started.html) guide.
