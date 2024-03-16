@@ -15,14 +15,8 @@ to generate test automation code, record test cases, or run tests.
 
 ### Dependencies
 
-Make sure you have installed the latest stable version of [Node.js](https://nodejs.org/en) on your system.
+Ensure you have installed the latest stable version of [Node.js](https://nodejs.org/en) on your system.
 
 ### Installing the BlinqIO Editor on Windows
 
-Download the `BlinqIO-Editor-Setup.exe` from the [latest release](https://github.com/blinq-io/recorder-app-releases/releases/latest) to your Windows system and run the installer to install the application.
-
-### Installing the BlinqIO Editor on macOS
-
-Download and extract the `BlinqIO-Editor-darwin.zip ` from the [latest release](https://github.com/blinq-io/recorder-app-releases/releases/latest) to your Mac system and run the installer to install the application.
-
-For more information, see our [Getting Started](https://docs.blinq.io/getting-started.html) guide.
+See our [Getting Started](https://docs.blinq.io/getting-started.html#install-blinqio-editor) guide for installation instructions.
